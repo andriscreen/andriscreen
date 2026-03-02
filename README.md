@@ -80,7 +80,7 @@ Buat gua, good code itu bukan cuma working — tapi readable, extensible, dan fu
 | Technology | Description |
 |------------|-------------|
 | ![React Native](https://skillicons.dev/icons?i=react) **React Native** | Cross-platform mobile apps |
-| ![Expo](https://skillicons.dev/icons?i=expo) **Expo** | Simplified mobile workflow |
+| <img src="https://cdn.simpleicons.org/expo/ffffff" height="40"/> &nbsp; **Expo** | Simplified React Native workflow |
 
 ---
 
