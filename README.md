@@ -4,8 +4,12 @@
 
 <h2>Andri Irawan</h2>
 
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Specialist;Fullstack+Web+Developer;Building+Scalable+Systems;Clean+Code+Enthusiast" />
+
+<br/>
+
 <h3>
-Web Developer • Frontend Specialist • System Builder • Clean Code Enthusiast
+Web Developer • Frontend Specialist • System Builder
 </h3>
 
 <br/>
@@ -29,30 +33,33 @@ Web Developer • Frontend Specialist • System Builder • Clean Code Enthusia
 <br/><br/>
 
 <p>
-Building scalable web apps, clean interfaces, and real-world solutions.
+I build scalable systems, clean interfaces, and real-world solutions that actually solve problems.
 </p>
 
 </div>
 
 ---
 
+## 🧠 About Me
 
-## 🧠 A Bit About Me
+Awalnya gua tertarik ke dunia development karena penasaran gimana sesuatu bisa jalan dari layar kosong jadi sistem yang kompleks.  
 
-Awalnya gua tertarik ke dunia development karena penasaran gimana sebuah aplikasi bisa jalan dari layar kosong jadi sistem yang kompleks.  
-Sekarang? Gua justru ketagihan build real-world solutions 🔥  
+Sekarang?  
+Gua fokus bikin aplikasi yang bukan cuma jalan — tapi scalable, maintainable, dan siap dipakai di dunia nyata.
 
-Beberapa hal yang sering jadi fokus gua:
+Yang sering jadi perhatian gua:
 
-- ✨ Clean & maintainable code
-- ⚡ Performance & optimization
-- 🏗 Scalable architecture
-- 🎨 UI yang simple tapi enak diliat
+- ✨ Clean & maintainable architecture
+- ⚡ Performance optimization
+- 🏗 Scalable system design
+- 🎨 UI yang simple tapi impactful
 - 🔐 Security & best practices
 
-Gua percaya aplikasi yang bagus itu bukan cuma keliatan keren, tapi juga stabil dan gampang dikembangkan ke depannya.
+Buat gua, good code itu bukan cuma working — tapi readable, extensible, dan future-proof.
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header"/>
 
 ## 🛠 My Toolbox & Playground
 
@@ -64,7 +71,7 @@ Gua percaya aplikasi yang bagus itu bukan cuma keliatan keren, tapi juga stabil 
 | ![Nuxt](https://skillicons.dev/icons?i=nuxt) **Nuxt** | SSR & scalable Vue applications |
 | ![React](https://skillicons.dev/icons?i=react) **React** | Component-based modern frontend |
 | ![Tailwind](https://skillicons.dev/icons?i=tailwind) **TailwindCSS** | Utility-first styling |
-| ![Vite](https://skillicons.dev/icons?i=vite) **Vite** | Lightning-fast dev environment |
+| ![Vite](https://skillicons.dev/icons?i=vite) **Vite** | Lightning-fast development environment |
 
 ---
 
@@ -73,7 +80,7 @@ Gua percaya aplikasi yang bagus itu bukan cuma keliatan keren, tapi juga stabil 
 | Technology | Description |
 |------------|-------------|
 | ![React Native](https://skillicons.dev/icons?i=react) **React Native** | Cross-platform mobile apps |
-| ![Expo](https://skillicons.dev/icons?i=expo) **Expo** | Simplified React Native workflow |
+| ![Expo](https://skillicons.dev/icons?i=expo) **Expo** | Simplified mobile workflow |
 
 ---
 
@@ -81,9 +88,9 @@ Gua percaya aplikasi yang bagus itu bukan cuma keliatan keren, tapi juga stabil 
 
 | Technology | Description |
 |------------|-------------|
-| ![Supabase](https://skillicons.dev/icons?i=supabase) **Supabase** | Backend-as-a-Service & realtime DB |
-| ![Postgres](https://skillicons.dev/icons?i=postgres) **PostgreSQL** | Relational database |
-| ![Node](https://skillicons.dev/icons?i=nodejs) **Node.js** | Backend runtime |
+| ![Supabase](https://skillicons.dev/icons?i=supabase) **Supabase** | Backend-as-a-Service & realtime database |
+| ![Postgres](https://skillicons.dev/icons?i=postgres) **PostgreSQL** | Reliable relational database |
+| ![Node](https://skillicons.dev/icons?i=nodejs) **Node.js** | Backend runtime environment |
 
 ---
 
@@ -93,85 +100,83 @@ Gua percaya aplikasi yang bagus itu bukan cuma keliatan keren, tapi juga stabil 
 |------------|-------------|
 | ![Git](https://skillicons.dev/icons?i=git) **Git** | Version control |
 | ![Docker](https://skillicons.dev/icons?i=docker) **Docker** | Containerization |
-| ![Vercel](https://skillicons.dev/icons?i=vercel) **Vercel** | Deployment platform |
-| ![Figma](https://skillicons.dev/icons?i=figma) **Figma** | UI/UX design tool |
+| ![Vercel](https://skillicons.dev/icons?i=vercel) **Vercel** | Cloud deployment |
+| ![Figma](https://skillicons.dev/icons?i=figma) **Figma** | UI/UX design |
 
 ---
 
-💡 *Always exploring new technologies that make development faster, cleaner, and more scalable.*
+💡 *Always exploring better tools, better systems, and better ways to build.*
 
 ---
 
-## 📦 What I've Built
+## 📦 Selected Projects
 
-### 🏗 MaterialGo
-Aplikasi web untuk manajemen gudang material bangunan.  
-Fitur utamanya:
-- Stock management
-- Transaksi barang masuk & keluar
-- Dashboard monitoring
-- Sistem yang clean & mudah dipakai
+### 🏗 MaterialGo  
+Web-based warehouse management system for building materials.  
+Built with scalability & real business workflow in mind.
 
-Project ini fokus ke kebutuhan real bisnis — bukan cuma demo app.
-
----
-
-### 📦 Parastock
-Aplikasi inventory untuk gudang umum seperti ATK & APD.  
-Dirancang supaya:
-- Proses pencatatan lebih cepat
-- Tracking stok lebih rapi
-- Minim human error
+Core features:
+- Stock tracking
+- In & out transactions
+- Monitoring dashboard
+- Clean and structured architecture
 
 ---
 
-## 📈 What I'm Currently Improving
+### 📦 Parastock  
+Inventory system for general warehouse needs (ATK, APD, etc).  
 
-Sekarang gua lagi fokus memperdalam:
-
-- Clean Architecture
-- Best practice di production
-- Performance optimization
-- Mobile app architecture
-- Supabase scaling & deployment strategy
-
-Karena menurut gua, jadi developer itu proses belajar seumur hidup 🔥
+Designed to:
+- Reduce human error
+- Improve stock tracking
+- Simplify operational workflow
 
 ---
+
+## 🚀 Currently Working On
+
+- 🔥 Improving system architecture
+- 📱 Better mobile app structure
+- ⚡ Performance & scalability optimization
+- 🧠 Deepening knowledge in system design
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=header"/>
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andriscreen&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andriscreen&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andriscreen&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andriscreen&layout=compact&theme=tokyonight" height="160"/>
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-Kalau lu mau:
-
-- Diskusi project
-- Kolaborasi
-- Ngobrolin tech
-- Atau cuma sharing insight
-
-Feel free to reach out 👇
+Kalau mau diskusi project, kolaborasi, atau ngobrol tech:
 
 🌐 Website: https://andriirawan.web.id  
-💼 LinkedIn: https://linkedin.com/in/xandriirawan
-📧 Email: andriscreen@gmail.com
+💼 LinkedIn: https://linkedin.com/in/xandriirawan  
+📧 Email: andriscreen@gmail.com  
 
 ---
 
 ## 🔥 Developer Mindset
 
-Gua selalu pegang prinsip:
+> Build something useful.  
+> Keep it clean.  
+> Make it scalable.
 
-> "Build something useful. Keep it clean. Make it scalable."
+Because good developers don’t just write code —  
+they build systems that last.
 
-Karena menurut gua, developer yang bagus bukan cuma bisa bikin jalan —  
-tapi bisa bikin sistem yang tahan lama.
+---
 
-Thanks udah mampir ke profile gua 🙌  
+<div align="center">
+
+Thanks for visiting 🙌  
 Let’s build something awesome 🚀
+
+</div>
