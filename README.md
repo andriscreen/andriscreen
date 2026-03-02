@@ -1,4 +1,4 @@
-# 🚀 Hey there! I'm Andri Irawan 👋
+# 🚀 Hey there! I'm Andri Irawan 🔥
 
 Welcome to my little corner of GitHub 😎  
 
