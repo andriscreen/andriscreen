@@ -95,9 +95,9 @@ Karena menurut gua, jadi developer itu proses belajar seumur hidup 🔥
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andriscreen&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andriscreen&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriscreen&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andriscreen&layout=compact&theme=tokyonight)
 
 ---
 
