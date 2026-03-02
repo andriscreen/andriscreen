@@ -1,13 +1,41 @@
-# 🚀 Hey there! I'm Andri Irawan 🔥
+<div align="center">
 
-Welcome to my little corner of GitHub 😎  
+<h1>🚀 Welcome to My GitHub Profile 🚀</h1>
 
-Gua adalah seorang **Web Developer & Frontend Specialist** yang suka banget ngulik teknologi dan ngebangun aplikasi dari nol sampai production.  
-Buat gua, coding itu bukan cuma soal bikin fitur jalan — tapi bikin sesuatu yang clean, scalable, dan enak dipakai orang.
+<h2>Andri Irawan</h2>
 
-🌐 Portfolio: https://andriirawan.web.id  
+<h3>
+Web Developer • Frontend Specialist • System Builder • Clean Code Enthusiast
+</h3>
+
+<br/>
+
+<a href="https://linkedin.com/in/xandriirawan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+</a>
+
+<a href="https://github.com/andriscreen">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+</a>
+
+<a href="mailto:andriscreen@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+</a>
+
+<a href="https://andriirawan.web.id">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
+</a>
+
+<br/><br/>
+
+<p>
+Building scalable web apps, clean interfaces, and real-world solutions.
+</p>
+
+</div>
 
 ---
+
 
 ## 🧠 A Bit About Me
 
