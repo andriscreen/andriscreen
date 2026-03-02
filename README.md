@@ -26,33 +26,51 @@ Gua percaya aplikasi yang bagus itu bukan cuma keliatan keren, tapi juga stabil 
 
 ---
 
-## 🛠 Tech Stack & Playground
+## 🛠 My Toolbox & Playground
 
-Ini beberapa teknologi yang sering gua pake:
+### 🎨 Frontend & Interface
 
-### 💻 Frontend
-- Vue.js
-- Nuxt
-- React
-- TailwindCSS
-- Vite
+| Technology | Description |
+|------------|-------------|
+| ![Vue](https://skillicons.dev/icons?i=vue) **Vue.js** | Reactive UI development & SPA architecture |
+| ![Nuxt](https://skillicons.dev/icons?i=nuxt) **Nuxt** | SSR & scalable Vue applications |
+| ![React](https://skillicons.dev/icons?i=react) **React** | Component-based modern frontend |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) **TailwindCSS** | Utility-first styling |
+| ![Vite](https://skillicons.dev/icons?i=vite) **Vite** | Lightning-fast dev environment |
 
-### 📱 Mobile
-- React Native
-- Expo
+---
+
+### 📱 Mobile Development
+
+| Technology | Description |
+|------------|-------------|
+| ![React Native](https://skillicons.dev/icons?i=react) **React Native** | Cross-platform mobile apps |
+| ![Expo](https://skillicons.dev/icons?i=expo) **Expo** | Simplified React Native workflow |
+
+---
 
 ### 🗄 Backend & Database
-- Supabase
-- PostgreSQL
-- Node.js
 
-### ⚙️ Tools & Deployment
-- Git & GitHub
-- Docker
-- Vercel
-- Figma
+| Technology | Description |
+|------------|-------------|
+| ![Supabase](https://skillicons.dev/icons?i=supabase) **Supabase** | Backend-as-a-Service & realtime DB |
+| ![Postgres](https://skillicons.dev/icons?i=postgres) **PostgreSQL** | Relational database |
+| ![Node](https://skillicons.dev/icons?i=nodejs) **Node.js** | Backend runtime |
 
-Gua selalu terbuka buat belajar tech baru kalau memang bisa bikin development lebih efisien 🚀
+---
+
+### ⚙️ DevOps & Tools
+
+| Technology | Description |
+|------------|-------------|
+| ![Git](https://skillicons.dev/icons?i=git) **Git** | Version control |
+| ![Docker](https://skillicons.dev/icons?i=docker) **Docker** | Containerization |
+| ![Vercel](https://skillicons.dev/icons?i=vercel) **Vercel** | Deployment platform |
+| ![Figma](https://skillicons.dev/icons?i=figma) **Figma** | UI/UX design tool |
+
+---
+
+💡 *Always exploring new technologies that make development faster, cleaner, and more scalable.*
 
 ---
 
