@@ -114,7 +114,7 @@ Feel free to reach out 👇
 
 🌐 Website: https://andriirawan.web.id  
 💼 LinkedIn: https://linkedin.com/in/xandriirawan
-📧 Email: andriscreen
+📧 Email: andriscreen@gmail.com
 
 ---
 
